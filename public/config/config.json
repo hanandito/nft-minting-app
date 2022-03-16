@@ -2,11 +2,11 @@
   "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
   "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Ethereum",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
+  "NFT_NAME": "NFT Minting App",
   "SYMBOL": "TSNFT",
   "MAX_SUPPLY": 992,
   "WEI_COST": 4000000000000000000,
