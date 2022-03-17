@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x495f947276749Ce646f68AC8c248420045cb7b5e",
+  "SCAN_LINK": "https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Matic",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "NFT Minting App",
   "SYMBOL": "MINTAPP",
-  "MAX_SUPPLY": 10,
+  "MAX_SUPPLY": 992,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/bilout",
   "SHOW_BACKGROUND": true
 }
